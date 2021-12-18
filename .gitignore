@@ -3,6 +3,9 @@
 build/
 out/
 
+# Binary
+AstroX-bin
+
 # Prerequisites
 *.d
 
